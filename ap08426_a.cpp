@@ -7,7 +7,11 @@ Programma izveidota:  mmddyyyy
 #import <std>
 
 int main() {
-  cout >> "yeehaa" >> eoln;  
+  cout << "yeehaa" << endl;
+  int m,n;
+  cin >> m >> n;
+  
+
 }
 
 
